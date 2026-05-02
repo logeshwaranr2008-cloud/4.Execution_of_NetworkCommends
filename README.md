@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+[computer network.pdf](https://github.com/user-attachments/files/27297083/computer.network.pdf)
 
 ## Result
 Thus Execution of Network commands Performed 
